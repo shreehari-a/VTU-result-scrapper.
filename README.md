@@ -2,5 +2,5 @@
 
 Just provide your usn as input to the python program
 
-$python result.py <USN>
+$python result.py usn
 
